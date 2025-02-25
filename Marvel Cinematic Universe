@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Cinematic Universe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1a1a1a;
+            color: white;
+            text-align: center;
+        }
+        header {
+            background: red;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .card {
+            background: #333;
+            padding: 15px;
+            margin: 10px;
+            border-radius: 10px;
+            display: inline-block;
+            width: 250px;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>Marvel Cinematic Universe</header>
+    
+    <div class="container">
+        <div class="section">
+            <h2>Infinity Saga - Movies</h2>
+            <div class="card">
+                <h3>Iron Man (2008)</h3>
+                <p>Director: Jon Favreau</p>
+                <p>Cast: Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges</p>
+                <p>Production: Marvel Studios</p>
+                <p>Distributor: Paramount Pictures</p>
+                <p>Budget: $140 million</p>
+                <p>Box Office: $585.8 million</p>
+                <p>Synopsis: A billionaire industrialist and genius inventor, Tony Stark, is kidnapped and forced to build a devastating weapon. Instead, he builds a high-tech suit of armor and escapes captivity, later embracing his new identity as Iron Man.</p>
+            </div>
+            <div class="card">
+                <h3>The Incredible Hulk (2008)</h3>
+                <p>Director: Louis Leterrier</p>
+                <p>Cast: Edward Norton, Liv Tyler, Tim Roth</p>
+                <p>Production: Marvel Studios</p>
+                <p>Distributor: Universal Pictures</p>
+                <p>Budget: $150 million</p>
+                <p>Box Office: $264.8 million</p>
+                <p>Synopsis: Scientist Bruce Banner seeks a cure for his condition, which causes him to transform into a giant green monster whenever he experiences anger.</p>
+            </div>
+            <div class="card">
+                <h3>Iron Man 2 (2010)</h3>
+                <p>Director: Jon Favreau</p>
+                <p>Cast: Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow</p>
+                <p>Production: Marvel Studios</p>
+                <p>Distributor: Paramount Pictures</p>
+                <p>Budget: $200 million</p>
+                <p>Box Office: $623.9 million</p>
+                <p>Synopsis: With the world now aware of his identity as Iron Man, Tony Stark must fend off a new enemy, Ivan Vanko, while dealing with government pressure to share his technology.</p>
+            </div>
+            <div class="card">
+                <h3>Avengers: Endgame (2019)</h3>
+                <p>Director: Anthony & Joe Russo</p>
+                <p>Cast: Robert Downey Jr., Chris Evans, Scarlett Johansson</p>
+                <p>Production: Marvel Studios</p>
+                <p>Distributor: Walt Disney Studios Motion Pictures</p>
+                <p>Budget: $356 million</p>
+                <p>Box Office: $2.798 billion</p>
+                <p>Synopsis: After the devastating events of Avengers: Infinity War, the remaining Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Multiverse Saga - Movies</h2>
+            <div class="card">
+                <h3>Spider-Man: No Way Home (2021)</h3>
+                <p>Director: Jon Watts</p>
+                <p>Cast: Tom Holland, Zendaya, Benedict Cumberbatch</p>
+                <p>Production: Marvel Studios, Columbia Pictures</p>
+                <p>Distributor: Sony Pictures Releasing</p>
+                <p>Budget: $200 million</p>
+                <p>Box Office: $1.921 billion</p>
+                <p>Synopsis: Peter Parker seeks Doctor Strange's help to make the world forget his identity as Spider-Man, but a spell goes wrong and unleashes multiversal villains.</p>
+            </div>
+            <div class="card">
+                <h3>Doctor Strange in the Multiverse of Madness (2022)</h3>
+                <p>Director: Sam Raimi</p>
+                <p>Cast: Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor</p>
+                <p>Production: Marvel Studios</p>
+                <p>Distributor: Walt Disney Studios Motion Pictures</p>
+                <p>Budget: $200 million</p>
+                <p>Box Office: $955.8 million</p>
+                <p>Synopsis: Doctor Strange embarks on a perilous journey through the multiverse, encountering alternate realities and powerful adversaries.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
